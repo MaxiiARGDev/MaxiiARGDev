@@ -1,9 +1,9 @@
 Hola Soy @MaxiiARGDev
-Tengo 25 años y soy de Argentina, Buenos Aires.
+Tengo 26 años y soy de Argentina, Buenos Aires.
 
-Estoy aprendiendo de apoco JavaScript & Python.
+Aprendiendo todos los dias algo nuevo.
 
-Me gusta desarrollar BOT's de discord, Plugin's y Mod's (Fabric & Forge) para Minecraft.
+HTML, PHP, JS, PYTHON, NODEJS, Plugin's y Mod's (Fabric & Forge)
 
 
 
