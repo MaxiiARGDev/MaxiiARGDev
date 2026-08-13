@@ -1,9 +1,7 @@
 Hola Soy @MaxiiARGDev
-Tengo 26 años y soy de Argentina, Buenos Aires.
+Tengo 28 años y soy de Argentina, Buenos Aires.
 
-Aprendiendo todos los dias algo nuevo.
-
-HTML, PHP, JS, PYTHON, NODEJS, Plugin's y Mod's (Fabric & Forge)
+Desarrollador Full Stack enfocado en crear aplicaciones web modernas, rápidas y escalables. Combino conocimientos sólidos de programación con creatividad, experiencia en proyectos reales y el uso de IA como herramienta para construir soluciones complejas en menos tiempo.
 
 
 
